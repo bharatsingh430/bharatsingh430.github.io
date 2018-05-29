@@ -3,12 +3,19 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
----
-Computer Science Department, Stanford University<br>
-Gates Computer Science Building, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] stanford.edu
 
-Computer Science Department, Shanghai Jiao Tong University<br>
-310 Yifu Building, 800 Dongchuan Rd, Shanghai, China 200240<br>
-Email: yulantao [at] apex.sjtu.edu.cn
+---
+
+
+<p>
+ <img src="http://localhost:4000/images/avatar.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+My pic, in the rare case you need to use it!
+
+3362, A. V. Williams Building<br>
+Computer Science Department, University of Maryland<br>
+College Park - 20742<br> <br>
+Email: bharat [at] cs [dot] umd [dot] edu
+
 

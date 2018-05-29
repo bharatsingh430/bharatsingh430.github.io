@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bharat Singh"
 title_separator          : "-"
 name                     : &name "Bharat Singh"
-description              : &description "Ph.D, Computer Science, University of Maryland"
+description              : &description "Ph.D, Computer Science University of Maryland"
 url                      : https://bharat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bharatsingh430/bharat.github.io"
@@ -79,17 +79,17 @@ analytics:
 author:
   name             : "Bharat Singh"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D, Computer Science, University of Maryland"
-  location         : "College Park, MD"
+  bio              : "Ph.D, Computer Science University of Maryland"
+  location         : "Washington, D.C"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=ig0q5c4AAAAJ=en"
-  email            : "bharatsingh430@gmail.com"
+  email            : "bharat@cs.umd.edu"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/singhizzking
+  facebook         : singhizzking
   foursquare       :
   github           : "bharatsingh430"
   google_plus      :
@@ -100,7 +100,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/628538/bharat
+  stackoverflow    : 628538/bharat
   steam            :
   tumblr           :
   twitter          : 
