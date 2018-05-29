@@ -11,7 +11,7 @@ author_profile: true
 ArXiv 2018
 
 <b>[R-FCN-3000 at 30FPS: Decoupling Classification and Detection](https://arxiv.org/abs/1712.01802)</b><br>
-<b>Bharat Singh</b>, Henguo Li, Abhishek Sharma, Larry S. Davis <br>
+<b>Bharat Singh</b>, Hengduo Li, Abhishek Sharma, Larry S. Davis <br>
 <b>CVPR 2018</b>
 
 <b>[An Analysis of Scale Invariance in Object Detection - SNIP](https://arxiv.org/abs/1711.08189)</b><br>
