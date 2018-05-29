@@ -11,7 +11,7 @@ author_profile: true
  <img src="http://bharatsingh430.github.io/images/avatar.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-My pic, in the rare case you need to use it!
+My pic, in the rare case you need it!
 
 3362, A. V. Williams Building<br>
 Computer Science Department, University of Maryland<br>
