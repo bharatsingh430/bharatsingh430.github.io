@@ -14,7 +14,7 @@ ArXiv 2018
 <b>Bharat Singh</b>, Henguo Li, Abhishek Sharma, Larry S. Davis <br>
 <b>CVPR 2018</b>
 
-<b>[An Analysis of Scale Invariance in Object Detection](https://arxiv.org/abs/1711.08189)</b><br>
+<b>[An Analysis of Scale Invariance in Object Detection - SNIP](https://arxiv.org/abs/1711.08189)</b><br>
 <b>Bharat Singh</b>, Larry S. Davis <br>
 <b>CVPR 2018</b> <span style="color:red">ORAL, Best Student Entry, COCO 2017</span>
 
