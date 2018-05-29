@@ -8,7 +8,7 @@ author_profile: true
 
 
 <p>
- <img src="http://localhost:4000/images/avatar.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+ <img src="http://bharatsingh430.github.io/images/avatar.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 My pic, in the rare case you need to use it!
