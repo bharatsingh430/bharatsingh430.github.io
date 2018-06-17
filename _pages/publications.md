@@ -10,7 +10,7 @@ author_profile: true
 <b>Bharat Singh</b>, Mahyar Najibi, Larry S. Davis <br>
 ArXiv 2018
 
-<b>[R-FCN-3000 at 30FPS: Decoupling Classification and Detection](https://arxiv.org/abs/1712.01802)</b><br>
+<b>[R-FCN-3000 at 30FPS: Decoupling Detection and Classification](https://arxiv.org/abs/1712.01802)</b><br>
 <b>Bharat Singh</b>, Hengduo Li, Abhishek Sharma, Larry S. Davis <br>
 <b>CVPR 2018</b>
 
