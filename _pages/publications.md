@@ -8,15 +8,15 @@ author_profile: true
 
 <b>[SNIPER: Efficient Multi-Scale Training](https://arxiv.org/abs/1805.09300)</b> <br>
 <b>Bharat Singh</b>, Mahyar Najibi, Larry S. Davis <br>
-ArXiv 2018
+ArXiv 2018 [Code](https://github.com/mahyarnajibi/SNIPER/)
 
 <b>[R-FCN-3000 at 30FPS: Decoupling Detection and Classification](https://arxiv.org/abs/1712.01802)</b><br>
 <b>Bharat Singh</b>, Hengduo Li, Abhishek Sharma, Larry S. Davis <br>
-<b>CVPR 2018</b>
+<b>CVPR 2018</b> [Code](https://github.com/mahyarnajibi/SNIPER/tree/cvpr3k)
 
 <b>[An Analysis of Scale Invariance in Object Detection - SNIP](https://arxiv.org/abs/1711.08189)</b><br>
 <b>Bharat Singh</b>, Larry S. Davis <br>
-<b>CVPR 2018</b> <span style="color:red">ORAL, Best Student Entry, COCO 2017</span>
+<b>CVPR 2018</b> <span style="color:red">ORAL, Best Student Entry, COCO 2017</span> [Code](https://github.com/mahyarnajibi/SNIPER/)
 
 <b>[Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)</b><br>
 Navaneeth Bodla, <b>Bharat Singh</b>, Rama Chellappa, Larry S. Davis <br>
