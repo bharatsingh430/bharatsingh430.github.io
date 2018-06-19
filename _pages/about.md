@@ -14,7 +14,7 @@ I work with Prof. Larry Davis in the Computer Vision Lab at UMD. Over the past 2
 
 
 # Recent News
-* May, 2018: [Code](https://github.com/mahyarnajibi/SNIPER) for SNIPER is available. The repo includes R-FCN-3000 as well.
+* May, 2018: [Code](https://github.com/mahyarnajibi/SNIPER) for SNIPER is available. The repo includes [R-FCN-3000](https://github.com/mahyarnajibi/SNIPER/tree/cvpr3k) as well.
 * May, 2018: [SNIPER](https://arxiv.org/abs/1805.09300) is on ArXiv. We can train with a batch size of 160 with ResNet-101 on a single GPU node and get 47.6 mAP while processing 5 images/second on COCO. 
 * March, 2018: [SNIP](https://arxiv.org/abs/1711.08189) got accepted as an ORAL presentation in CVPR 2018.
 * March, 2018: [R-FCN-3000](https://arxiv.org/abs/1712.01802) will be presented in CVPR 2018. 
