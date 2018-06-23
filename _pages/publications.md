@@ -24,7 +24,7 @@ ArXiv 2018
 
 <b>[Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)</b><br>
 Navaneeth Bodla, <b>Bharat Singh</b>, Rama Chellappa, Larry S. Davis <br>
-<b>ICCV 2017</b>. [Code](https://github.com/bharatsingh430/soft-nms) [NEXAR](https://blog.getnexar.com/how-a-22-year-old-from-shanghai-won-a-global-deep-learning-challenge-76f2299446a1)
+<b>ICCV 2017</b> [Code](https://github.com/bharatsingh430/soft-nms) [NEXAR](https://blog.getnexar.com/how-a-22-year-old-from-shanghai-won-a-global-deep-learning-challenge-76f2299446a1)
 
 ## Action and Event Detection
 <b>[Temporal Context Network for Activity Localization in Videos](https://arxiv.org/abs/1708.02349)</b><br>
