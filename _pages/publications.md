@@ -12,7 +12,7 @@ ArXiv 2018 [Code](https://github.com/mahyarnajibi/SNIPER/)
 
 <b>[Soft-Sampling for Robust Object Detection](https://arxiv.org/abs/1806.06986)</b> <br>
 Zhe Wu, Navaneeth Bodla, <b>Bharat Singh</b>, Mahyar Najibi, Rama Chellappa, Larry S. Davis<br>
-ArXiv 2018
+ArXiv 2018 [Code](https://github.com/mahyarnajibi/SNIPER/tree/openimages2)
 
 <b>[R-FCN-3000 at 30FPS: Decoupling Detection and Classification](https://arxiv.org/abs/1712.01802)</b><br>
 <b>Bharat Singh</b>, Hengduo Li, Abhishek Sharma, Larry S. Davis <br>
