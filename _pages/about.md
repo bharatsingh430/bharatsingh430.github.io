@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I work with Prof. Larry Davis in the Computer Vision Lab at UMD. Over the past 2-3 years, my major research focus has been on identifying bottlenecks in visual recognition problems like object and action detection. I have also worked on large-scale video retrieval, distributed training of neural networks and some interesting applications like creating smart thumbnails, instance-aware style transfer and using AI for detecting deception in court-room videos.
+I obtained my PhD from University of Maryland and was advised by Prof. Larry Davis. Over the past 2-3 years, my major research focus has been on identifying bottlenecks in visual recognition problems like object and action detection. I have also worked on large-scale video retrieval, distributed training of neural networks and some interesting applications like creating smart thumbnails, instance-aware style transfer and using AI for detecting deception in court-room videos.
 
 
 
