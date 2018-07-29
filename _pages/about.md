@@ -22,4 +22,3 @@ I obtained my PhD from University of Maryland, College Park and was advised by P
 * Oct, 2017: [SNIP](https://arxiv.org/abs/1711.08189) won the Best Student Entry in the COCO 2017 challenge at ICCV.
 * Oct, 2017: 8 of the top 15 teams in the COCO 2017 detection challenge used [Soft-NMS](https://arxiv.org/abs/1704.04503).
 * June, 2017: [TCN](https://arxiv.org/abs/1708.02349) ranked third in the Activity-Net 2017 proposal generation challenge.
-
