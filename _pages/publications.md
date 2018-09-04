@@ -12,7 +12,7 @@ ArXiv 2018 [Code](https://github.com/mahyarnajibi/SNIPER/tree/openimages2)
 
 <b>[SNIPER: Efficient Multi-Scale Training](https://arxiv.org/abs/1805.09300)</b> <br>
 <b>Bharat Singh</b>, Mahyar Najibi, Larry S. Davis <br>
-NIPS 2018 [Code](https://github.com/mahyarnajibi/SNIPER/)
+<b>NIPS 2018</b> [Code](https://github.com/mahyarnajibi/SNIPER/)
 
 <b>[R-FCN-3000 at 30FPS: Decoupling Detection and Classification](https://arxiv.org/abs/1712.01802)</b><br>
 <b>Bharat Singh</b>, Hengduo Li, Abhishek Sharma, Larry S. Davis <br>
