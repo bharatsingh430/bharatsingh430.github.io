@@ -6,6 +6,10 @@ author_profile: true
 
 ## Object Detection
 
+<b>[AutoFocus: Efficient Multi-Scale Inference](https://www.cs.umd.edu/~bharat/autofocus.pdf)</b> <br>
+Mahyar Najibi, <b>Bharat Singh</b>, Larry S. Davis<br>
+ArXiv 2018 
+
 <b>[Soft-Sampling for Robust Object Detection](https://arxiv.org/abs/1806.06986)</b> <br>
 Zhe Wu, Navaneeth Bodla, <b>Bharat Singh</b>, Mahyar Najibi, Rama Chellappa, Larry S. Davis<br>
 ArXiv 2018 [Code](https://github.com/mahyarnajibi/SNIPER/tree/openimages2)
