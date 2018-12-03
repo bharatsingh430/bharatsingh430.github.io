@@ -13,6 +13,7 @@ I obtained my PhD from University of Maryland, College Park and was advised by P
 
 
 # Recent News
+* Dec, 2018: Multi-Scale inference is now faster, checkout [AutoFocus](http://www.cs.umd.edu/~bharat/autofocus.pdf)
 * June, 2018: Code for [SNIPER](https://github.com/mahyarnajibi/SNIPER), [R-FCN-3000](https://github.com/mahyarnajibi/SNIPER/tree/cvpr3k) and [Soft-Sampling](https://github.com/mahyarnajibi/SNIPER/tree/openimages2) is available.
 * May, 2018: [SNIPER](https://arxiv.org/abs/1805.09300) is on ArXiv. We can train with a batch size of 160 with ResNet-101 on a single GPU node and get 47.6 mAP while processing 5 images/second on COCO. 
 * March, 2018: [SNIP](https://arxiv.org/abs/1711.08189) got accepted as an ORAL presentation in CVPR 2018.
