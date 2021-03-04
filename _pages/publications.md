@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Scale Normalized Image Pyramids with AutoFocus for Object Detection](https://arxiv.org/pdf/2102.05646.pdf)</b> <br>
+<b>Bharat Singh</b>, Mahyar Najibi, Abhishek Sharma, Larry S. Davis<br>
+<b>T-PAMI 2021</b>
+
+<b>[Recognizing instagram filtered images with feature de-stylization](https://arxiv.org/pdf/1912.13000.pdf)</b> <br>
+Zhe Wu, Zuxuan Wu, <b>Bharat Singh</b>, Larry S. Davis<br>
+<b>AAAI 2020</b> 
+
 <b>[AutoFocus: Efficient Multi-Scale Inference](https://www.cs.umd.edu/~bharat/autofocus.pdf)</b> <br>
 Mahyar Najibi, <b>Bharat Singh</b>, Larry S. Davis<br>
 <b>ICCV 2019</b> 
